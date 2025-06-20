@@ -8,13 +8,6 @@ I'm Juan Manuel, a Software Developer with a growing focus on Solution Architect
 - 🏊‍♂️ When I'm not coding, I'm swimming—it keeps me active and energized!
 
 
-## 🌟 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-| -------- | ----------- | ----------- |
-
----
-
 ## 📈 Estadísticas de GitHub
 
 ![juan-saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-saad&show_icons=true&theme=radical)
